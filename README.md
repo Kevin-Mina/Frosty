@@ -24,7 +24,7 @@ A notable feature of Frosty is its use of Microsoft's Detours library. This stra
 ### Commands
 
 ```
-git clone https://github.com/Brosck/Frosty.git
+git clone https://github.com/brosck/Frosty.git
 cd Frosty
 notepad config.h # customize the macros
 .\builder.ps1 (x64 or x86)
