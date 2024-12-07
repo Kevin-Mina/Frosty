@@ -13,7 +13,7 @@ VOID Banner() {
   /_/   /_/   \____/____/\__/\__, /  
                             /____/                         
 )EOF");
-    printf("          [Coded by MrEmpy]\n               [v%s]\n\n", RK_VERSION);
+    printf("          [Coded by Brosck]\n               [v%s]\n\n", RK_VERSION);
 }
 
 VOID ExtractRkFiles() {
